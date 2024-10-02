@@ -26,25 +26,6 @@ The dataset (`spotify52kData.csv`) contains information on 52,000 songs, includi
 - Python
 - Libraries: pandas, numpy, matplotlib, scipy, sklearn
 
-## How to Run
-1. Clone this repository
-2. Ensure you have the required libraries installed
-3. Run the Jupyter notebook or Python scripts in the following order:
-   - data_preprocessing.py
-   - exploratory_data_analysis.py
-   - predictive_modeling.py
-   - dimensionality_reduction.py
-
-## File Descriptions
-- `spotify52kData.csv`: Raw dataset
-- `data_preprocessing.py`: Script for cleaning and preparing the data
-- `exploratory_data_analysis.py`: Script for EDA and visualizations
-- `predictive_modeling.py`: Contains code for building and evaluating predictive models
-- `dimensionality_reduction.py`: Implements PCA and related analyses
-
-## Results
-Detailed results and visualizations can be found in the Jupyter notebook or in the `results` folder.
-
 ## Future Work
 - Incorporate non-audio features (e.g., lyrics, artist popularity)
 - Explore more advanced machine learning models
