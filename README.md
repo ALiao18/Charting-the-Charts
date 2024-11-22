@@ -1,5 +1,7 @@
 # Spotify Song Popularity Analysis
 
+Read more about it at "The Science of Sound: What Spotify’s Data Tells Us About Music Preferences" in Medium!
+
 ## Project Overview
 This project analyzes a dataset of 52,000 Spotify songs to understand the factors influencing song popularity on the platform. It was completed as a capstone project for the Principles of Data Science course.
 
